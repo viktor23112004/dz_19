@@ -1,0 +1,21 @@
+.container {
+    margin: 0;
+}
+
+nav .brand-logo {
+    left: 3%;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main form h4 {
+    margin-bottom: 0;
+}
+
+footer .foot1 {
+    padding: 20px 50px;
+}
